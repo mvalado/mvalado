@@ -18,7 +18,9 @@
 - Software and hardware development
 - Knowledge of Python and C
 - Advenced level of English
+- Team management
 - Teamwork
+
 
 ### 📖 Areas of interest
 Seeking improvement and knowledge in the following areas:
