@@ -15,7 +15,7 @@
 - 📫 Contact me on email: mauriciovaladex6@gmail.com
 
 ### 🔓 Skills
-- Software projects
+- Software and hardware development
 - Knowledge of Python and C
 - Advenced level of English
 - Teamwork
