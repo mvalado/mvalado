@@ -1,8 +1,8 @@
 ## Olá! Me chamo Maurício Valadão.
 
-![Maurício Valadão Github stats](https://github-readme-stats.vercel.app/api?username=mvalado&rank_icon=github&show_icons=true&logo=true&theme=github_dark)<img align="right" alt="Python" height="368" width="328" src="https://github.com/mvalado/mvalado/assets/86270082/5a4349e9-f850-4a50-9d7a-72bd6e02a02d">
+![Maurício Valadão Github stats](https://github-readme-stats.vercel.app/api?username=mvalado&icon_color=56001f&bg_color=030918&rank_icon=github&show_icons=true&logo=true&theme=algolia)<img align="right" alt="Python" height="368" width="328" src="https://github.com/mvalado/mvalado/assets/86270082/5a4349e9-f850-4a50-9d7a-72bd6e02a02d">
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvalado&size_weight=1&count_weight=1&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvalado&size_weight=1&bg_color=061321&count_weight=1&theme=algolia)
 <br />
 - 📖 Estudante de Engenharia de Automação - FURG
 - 🔭 Atualmente trabalho como volutário na equipe de robótica Furgbot
@@ -20,4 +20,3 @@
 <a href="https://www.linkedin.com/in/maur%C3%ADcio-valad%C3%A3o-5153491a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://t.me/Valadown" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> <a href="https://wa.me/5553991070754" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  ##
   
-  ![Snake animation](https://github.com/mvalado/mvalado/blob/output/github-contribution-grid-snake.svg)
