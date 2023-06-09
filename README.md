@@ -13,10 +13,26 @@
 - 🔎 Looking for an internship or job in Computer Vision and Machine Learning area
 - 🌱 Studying ROS 2
 - 📫 Contact me on email: mauriciovaladex6@gmail.com
-<br /><br />
-#### Awards
+
+### 🔓 Skills
+- Software projects
+- Knowledge of Python and C
+- Advenced level of English
+- Teamwork
+
+### 📖 Areas of interest
+Seeking improvement and knowledge in the following areas:
+
+- Python
+- ROS and ROS 2
+- Navigation
+- Computer Vision
+- Machine Learning
+- Robotics
+
+#### 🏆 Awards
   * 🥉 3rd place in SSL competition at Urucup - Rivera, Uruguay, 2023.
-<br /><br /><br /><br />
+<br /><br />
 
 
 
