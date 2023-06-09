@@ -35,7 +35,6 @@ Seeking improvement and knowledge in the following areas:
 
 #### 🏆 Awards
   * 🥉 3rd place in SSL competition at Urucup - Rivera, Uruguay, 2023. 
-  <a href="https://www.instagram.com/furgbot/" target="_blank"><img align="right" alt="fbot" height="100" width="100" src="https://github.com/mvalado/mvalado/assets/86270082/72c7aef0-94e3-46ba-95be-b9ce1b69d6b7" target="_blank"></a>
 <br /><br />
 
 
