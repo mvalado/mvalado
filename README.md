@@ -22,6 +22,7 @@
 - Teamwork
 
 
+
 ### 📖 Areas of interest
 Seeking improvement and knowledge in the following areas:
 
@@ -33,13 +34,16 @@ Seeking improvement and knowledge in the following areas:
 - Robotics
 
 #### 🏆 Awards
-  * 🥉 3rd place in SSL competition at Urucup - Rivera, Uruguay, 2023.
+  * 🥉 3rd place in SSL competition at Urucup - Rivera, Uruguay, 2023. 
+  <a href="https://www.instagram.com/furgbot/" target="_blank"><img align="right" alt="fbot" height="100" width="100" src="https://github.com/mvalado/mvalado/assets/86270082/72c7aef0-94e3-46ba-95be-b9ce1b69d6b7" target="_blank"></a>
 <br /><br />
 
 
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img align="center" alt="Docker" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /><img align="center" alt="ROS" height="34" width="44" src="https://fkromer.github.io/awesome-ros2/ros_logo.svg" /><br />
+<img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img align="center" alt="Docker" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /><img align="center" alt="ROS" height="34" width="44" src="https://fkromer.github.io/awesome-ros2/ros_logo.svg" /> <img align="center" alt="ROS" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /><br />
+
+          
 
 ##
 
