@@ -1,4 +1,4 @@
-## Hello there! I'm Maurício Valadão.
+## Hey there! I'm Maurício Valadão.
 
 ![Maurício Valadão Github stats](https://github-readme-stats.vercel.app/api?username=mvalado&icon_color=56001f&bg_color=030918&rank_icon=github&show_icons=true&logo=true&theme=algolia)<img align="right" alt="Python" height="368" width="328" src="https://github.com/mvalado/mvalado/assets/86270082/5a4349e9-f850-4a50-9d7a-72bd6e02a02d">
 <br />
