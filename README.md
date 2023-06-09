@@ -4,12 +4,16 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvalado&size_weight=1&bg_color=061321&count_weight=1&theme=algolia)
 <br />
-- 📖 An automation engineering student at FURG - Universidade Federal do Rio Grande, Campus Carreiros.
+##
+### Curiosities
+- 📖 An automation engineering student at FURG (5/10).
 - 🔭 I currently work as a volunteer on the robotics team [FBOT](https://www.instagram.com/furgbot/)
 - 🔎 Looking for an internship or job in Computer Vision and Machine Learning area
 - 🌱 Studying ROS 2
 - 📫 Contact me on email: mauriciovaladex6@gmail.com
-<br /><br /><br /><br /><br />
+<br /><br />
+#### Awards
+  * 🥉 3rd place in Urucup - Rivera, Uruguay, 2023.<br /><br /><br /><br />
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img align="center" alt="Docker" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /><img align="center" alt="ROS" height="34" width="44" src="https://fkromer.github.io/awesome-ros2/ros_logo.svg" /><br />
 
