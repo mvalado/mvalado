@@ -11,7 +11,7 @@
 - 📖 An automation engineering student at FURG (5/10).
 - 🔭 I currently work as a volunteer on the robotics team [FBOT](https://www.instagram.com/furgbot/)
 - 🔎 Looking for an internship or job in Computer Vision and Machine Learning area
-- 🌱 Studying ROS 2
+- 🌱 Studying ROS 2 and flutter
 - 📫 Contact me on email: mauriciovaladex6@gmail.com
 
 ### 🔓 Skills
@@ -40,7 +40,7 @@ Seeking improvement and knowledge in the following areas:
 
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img align="center" alt="Docker" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /><img align="center" alt="ROS" height="34" width="44" src="https://fkromer.github.io/awesome-ros2/ros_logo.svg" /> <img align="center" alt="ROS" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /><br />
+<img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img align="center" alt="Docker" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> <img align="center" alt="ROS" height="34" width="44" src="https://fkromer.github.io/awesome-ros2/ros_logo.svg" /> <img align="center" alt="ROS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/600px-Dart-logo.png" /> <img align="center" alt="ROS" height="30" width="86" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" /> <img align="center" alt="ROS" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /><br />
 
           
 
